@@ -109,7 +109,6 @@ const upsertMany = async () => {
     { id: "Suki" },
     { id: "Shweta" },
     { id: "Steve" },
-    { id: "Zach" },
     { id: "Collin" },
     { id: "Chandler" },
     { id: "Sara" },
